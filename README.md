@@ -23,8 +23,6 @@ I recently graduated with a Software Engineering degree and I'm diving into all 
 | [![Rxjs][Rxjs.com]][Rxjs-url] |
 | [![Spring][Spring.com]][Spring-url] | 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <br>
 
 <!-- CERTIFICATIONS -->
