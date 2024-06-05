@@ -41,7 +41,7 @@ I recently graduated with a Software Engineering degree and I'm diving into all 
 
 - [Custom Timers Website](https://gitfront.io/r/andrewcate/sqg1uDGywjA4/Custom-Timers-Website/) (full stack)
 - [Student Progress Tracker](https://gitfront.io/r/andrewcate/W1TXPFr5cikZ/Student-Progress-Tracker/) (Android)
-- [Typing the Dictionary](https://github.com/AndrewJCate/Typing-The-Dictionary)
+- [Typing the Dictionary](https://github.com/AndrewJCate/Typing-The-Dictionary) (JavaFX)
 
 <br>
 
